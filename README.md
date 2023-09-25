@@ -1,7 +1,7 @@
 <h1>
 	hi everyone, I'm Daniel Trigo.
 </h1>
-I am Daniel Trigo, but my nickname is willtrigo, because of a joke in school that I've carried since then. I've been programming since 2006 and have had the opportunity to work in education, developing educational games, digital media, animations, and I've also worked with intelligent kiosks developing mobile solutions. Currently, I'm studying software engineering at 42sp in Brazil. I'm challenging myself to deepen my understanding of C and Unix, as that is the core of the 42 school curriculum.
+I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that I've carried since then. I've been programming since 2006 and have had the opportunity to work in education, developing educational games, digital media, animations, and I've also worked with intelligent kiosks developing mobile solutions. Currently, I'm studying software engineering at 42sp in Brazil. I'm challenging myself to deepen my understanding of C and Unix, as that is the core of the 42 school curriculum.
 <br>
 <h2>
 	📩 Contact me:
@@ -26,9 +26,19 @@ I am Daniel Trigo, but my nickname is willtrigo, because of a joke in school tha
 <h2>
 	🏅 42sp School Projects:
 </h2>
+<h4>
+	Badges:
+</h4>
 <a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/piscine.png' usemap="" alt='Piscine' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/libftm.png' usemap="" alt='Libft' width="100"/></a>
 <a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Get next line' width="100"/></a>
+<h4>
+	Piscine May/2023:
+</h4>
 
-![](https://komarev.com/ghpvc/?username=willtrigo&color=blue)
+[![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/willtrigo/42_school/tree/main/42_piscine)
+
+<h2></h2>
+
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dande-je)
+![](https://komarev.com/ghpvc/?username=willtrigo&color=blue)
