@@ -11,16 +11,15 @@ I am Daniel Trigo, but my nickname is willtrigo, because of a joke in school tha
   <a href = "mailto:wiltlrigo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/willtrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=willtrigo&color=blue)
-[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dande-je)
-
 <br>
 <h2>
 	🔥 GitHub Stats:
 </h2>
 <div align=center>
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=willtrigo&theme=dark&hide_border=true&include_all_commits=false&count_private=false"width="364px"/>     <img src="https://github-readme-streak-stats.herokuapp.com/?user=willtrigo&theme=dark&hide_border=true" width="400px"/>
+
+[![status](https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/languages.svg)](#)
+
 <div/>
 <div align="left"> <div/>
 <br>
@@ -30,3 +29,6 @@ I am Daniel Trigo, but my nickname is willtrigo, because of a joke in school tha
 <a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/piscine.png' usemap="" alt='Piscine' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/libftm.png' usemap="" alt='Libft' width="100"/></a>
 <a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Get next line' width="100"/></a>
+
+![](https://komarev.com/ghpvc/?username=willtrigo&color=blue)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dande-je)
