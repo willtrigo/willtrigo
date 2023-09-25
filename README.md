@@ -11,8 +11,10 @@ I am Daniel Trigo, but my nickname is willtrigo, because of a joke in school tha
   <a href = "mailto:wiltlrigo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/willtrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-![](https://komarev.com/ghpvc/?username=willtrigo&color=lightgrey&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=willtrigo&color=blue)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dande-je)
+
 <br>
 <h2>
 	🔥 GitHub Stats:
