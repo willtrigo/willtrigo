@@ -29,12 +29,13 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 <h4>
 	Badges:
 </h4>
-<a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/piscine.png' usemap="" alt='Piscine' width="100"/></a>
-<a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/libftm.png' usemap="" alt='Libft' width="100"/></a>
-<a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Get next line' width="100"/></a>
+<a href="https://github.com/willtrigo/42_school/tree/main/42_piscine"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/piscine.png' usemap="" alt='Piscine' width="100"/></a>
+<a href="#"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/libftm.png' usemap="" alt='Libft' width="100"/></a>
+<a href="#"><img src='https://github.com/willtrigo/willtrigo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Get next line' width="100"/></a>
 <h4>
 	Piscine May/2023:
 </h4>
+
 
 [![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/willtrigo/42_school/tree/main/42_piscine)
 
