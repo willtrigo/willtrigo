@@ -1,5 +1,5 @@
 <h1>
-	hi everyone, I'm Daniel Trigo.
+	Hi everyone, I'm Daniel Trigo.
 </h1>
 I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that I've carried since then. I've been programming since 2006 and have had the opportunity to work in education, developing educational games, digital media, animations, and I've also worked with intelligent kiosks developing mobile solutions. Currently, I'm studying software engineering at 42sp in Brazil. I'm challenging myself to deepen my understanding of C and Unix, as that is the core of the 42 school curriculum.
 <br>
