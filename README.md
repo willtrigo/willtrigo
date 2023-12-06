@@ -15,8 +15,12 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 <div align=center>
 
-[![status](https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/languages.svg)](#)
+<picture>
+	<img alt="Status" src="https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/overview.svg" height="100%">
+</picture>
+<picture>
+	<img alt="Languages" src="https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/languages.svg" height="100%">
+</picture>
 
 <div/>
 <div align="left"> <div/>
