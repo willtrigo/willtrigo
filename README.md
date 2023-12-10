@@ -27,27 +27,27 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 ## 🏅 42sp School Projects:
 
-### Badges:
+<picture >
+	<img alt="Profile view" src="https://img.shields.io/badge/School-projects_badges-skyblue?style=for-the-badge&&logo=42">
+</picture>
 
-<picture>
+</br>
+<a href="https://github.com/willtrigo/42_piscine">
 	<img alt="Piscine" src="42_badges/piscine.png" width="100">
-</picture>
-<picture>
+</a>
+<a href="https://github.com/willtrigo/42_libft">
 	<img alt="Libft" src="42_badges/libftm.png" width="100">
-</picture>
-<picture>
+</a>
+<a href="https://github.com/willtrigo/42_get_next_line">
 	<img alt="Get next line" src="42_badges/get_next_linem.png" width="100">
-</picture>
-<picture>
+</a>
+<a href="https://github.com/willtrigo/42_printf">
 	<img alt="Printf" src="42_badges/ft_printfm.png" width="100">
-</picture>
-<picture>
+</a>
+<a href="https://github.com/willtrigo/42_born2beroot">
 	<img alt="Born 2 be root" src="42_badges/born2berootm.png" width="100">
-</picture>
+</a>
 
-### 
-
-[![](https://img.shields.io/badge/School-projects-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_school/)
 
 <h2></h2>
 
