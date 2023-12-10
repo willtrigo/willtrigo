@@ -33,19 +33,19 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 </br>
 <a href="https://github.com/willtrigo/42_piscine">
-	<img alt="Piscine" src="42_badges/piscine.png" width="100">
+	<img alt="Piscine" src="42_badges/piscine.png" width="90">
 </a>
 <a href="https://github.com/willtrigo/42_libft">
-	<img alt="Libft" src="42_badges/libftm.png" width="100">
+	<img alt="Libft" src="42_badges/libftm.png" width="90">
 </a>
 <a href="https://github.com/willtrigo/42_get_next_line">
-	<img alt="Get next line" src="42_badges/get_next_linem.png" width="100">
+	<img alt="Get next line" src="42_badges/get_next_linem.png" width="90">
 </a>
 <a href="https://github.com/willtrigo/42_printf">
-	<img alt="Printf" src="42_badges/ft_printfm.png" width="100">
+	<img alt="Printf" src="42_badges/ft_printfm.png" width="90">
 </a>
 <a href="https://github.com/willtrigo/42_born2beroot">
-	<img alt="Born 2 be root" src="42_badges/born2berootm.png" width="100">
+	<img alt="Born 2 be root" src="42_badges/born2berootm.png" width="90">
 </a>
 
 
