@@ -50,6 +50,7 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 [![Get next line](42_badges/get_next_linem.png)](https://github.com/willtrigo/42_get_next_line)
 [![Printf](42_badges/ft_printfm.png)](https://github.com/willtrigo/42_printf)
 [![Born 2 be root](42_badges/born2berootm.png)](https://github.com/willtrigo/42_born2beroot)
+[![Fract-ol](42_badges/fract-olm.png)](https://github.com/willtrigo/42_fract-ol)
 
 </div>
 </div>
