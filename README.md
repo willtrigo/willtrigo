@@ -58,7 +58,6 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=willtrigo&theme=darkhub&rank=-?&column=-1&no-bg=true&no-frame=true)
 
-[![42 Game](https://img.shields.io/badge/Game-profile-blue?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/dande-je)
 <picture>
 	<img alt="Profile view" src="https://komarev.com/ghpvc/?username=willtrigo&color=blue">
 </picture>
