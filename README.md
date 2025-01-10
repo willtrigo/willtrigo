@@ -39,20 +39,52 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 </div>
 
-<div id="title_phase_one" style="margin: 0px 0px 3px;">
+<div id="title_milestone_one" style="margin: 0px 0px 3px;">
 	<picture>
-		<img alt="Phase one" src="https://img.shields.io/badge/School-Phase_one-skyblue?style=for-the-badge&&logo=42">
+		<img alt="Milestone one" src="https://img.shields.io/badge/School-Milestone_one-skyblue?style=for-the-badge&&logo=42">
 	</picture>
 </div>
-<div id="phase_one" style="display: inline-block; vertical-align: middle;">
+<div id="milestone_one" style="display: inline-block; vertical-align: middle;">
 
 [![Libft](42_badges/libftm.png)](https://github.com/willtrigo/42_libft)
+
+</div>
+<div id="title_milestone_two" style="margin: 0px 0px 3px;">
+	<picture>
+		<img alt="Milestone two" src="https://img.shields.io/badge/School-Milestone_two-skyblue?style=for-the-badge&&logo=42">
+	</picture>
+</div>
+<div id="milestone_two" style="display: inline-block; vertical-align: middle;">
+
 [![Get next line](42_badges/get_next_linem.png)](https://github.com/willtrigo/42_get_next_line)
 [![Printf](42_badges/ft_printfm.png)](https://github.com/willtrigo/42_printf)
 [![Born 2 be root](42_badges/born2berootm.png)](https://github.com/willtrigo/42_born2beroot)
-[![Fract-ol](42_badges/fract-olm.png)](https://github.com/willtrigo/42_fract-ol)
 
 </div>
+<div id="title_milestone_three" style="margin: 0px 0px 3px;">
+	<picture>
+		<img alt="Milestone three" src="https://img.shields.io/badge/School-Milestone_three-skyblue?style=for-the-badge&&logo=42">
+	</picture>
+</div>
+<div id="milestone_three" style="display: inline-block; vertical-align: middle;">
+
+[![Fract-ol](42_badges/fract-olm.png)](https://github.com/willtrigo/42_fract-ol)
+[![Minitalk](42_badges/minitalkm.png)](https://github.com/willtrigo/42_minitalk)
+[![Push swap](42_badges/push_swapm.png)](https://github.com/willtrigo/42_push_swap)
+
+</div>
+<div id="title_milestone_four" style="margin: 0px 0px 3px;">
+	<picture>
+		<img alt="Milestone four" src="https://img.shields.io/badge/School-Milestone_four-skyblue?style=for-the-badge&&logo=42">
+	</picture>
+</div>
+<div id="milestone_four" style="display: inline-block; vertical-align: middle;">
+
+[![Minishell](42_badges/minishellm.png)](https://github.com/willtrigo/42_minishell)
+[![Philosophers](42_badges/philosophersm.png)](https://github.com/willtrigo/42_philosophers)
+
+</div>
+
 </div>
 <h2></h2>
 
