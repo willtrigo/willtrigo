@@ -127,7 +127,7 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <div id="milestone_four" style="display: inline-block; vertical-align: middle;">
 
-[![Net practice](42_badges/netpracticem.png)](https://github.com/willtrigo/42_netpractice)
+[![Net practice](42_badges/netpracticem.png)](https://github.com/willtrigo/42_net_practice)
 [![Cub3D](42_badges/cub3dm.png)](https://github.com/willtrigo/42_cub3d)
 [![CPP 00](42_badges/cpp00m.png)](https://github.com/willtrigo/42_cpp_module_00)
 [![CPP 01](42_badges/cpp01m.png)](https://github.com/willtrigo/42_cpp_module_01)
