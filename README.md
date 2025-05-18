@@ -11,6 +11,42 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 	<a href="https://discordapp.com/users/willtrigo#8664" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
 </div>
 
+## ⌨ Programming Languages
+
+<picture>
+  <img alt="Languages" src="https://skillicons.dev/icons?i=c,cpp,python,java,js&perline=" height="100%">
+</picture>
+
+## 🌐 Web Development
+
+<picture>
+  <img alt="Web" src="https://skillicons.dev/icons?i=html,css,jquery,nodejs,django,bootstrap&perline=" height="100%">
+</picture>
+
+## 🛢 Databases
+
+<picture>
+  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=" height="100%">
+</picture>
+
+## 🧰 DevOps & Tools
+
+<picture>
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,heroku,linux,bash,selenium,docker,figma&perline=" height="100%">
+</picture>
+
+## 📝 IDEs & Editors
+
+<picture>
+  <img alt="Editors" src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea&perline=" height="100%">
+</picture>
+
+## 🏗 Build Tools & Package Managers
+
+<picture>
+  <img alt="Build Tools" src="https://skillicons.dev/icons?i=gradle,npm,bitbucket&perline=" height="100%">
+</picture>
+
 ## 🔥 GitHub Stats:
 
 <div align=center>
@@ -39,6 +75,16 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 </div>
 
+<div id="title_milestone_zero" style="margin: 0px 0px 3px;">
+	<picture>
+		<img alt="Milestone zero" src="https://img.shields.io/badge/School-Milestone_zero-skyblue?style=for-the-badge&&logo=42">
+	</picture>
+</div>
+<div id="milestone_zero" style="display: inline-block; vertical-align: middle;">
+
+[![Libft](42_badges/libftm.png)](https://github.com/willtrigo/42_libft)
+
+</div>
 <div id="title_milestone_one" style="margin: 0px 0px 3px;">
 	<picture>
 		<img alt="Milestone one" src="https://img.shields.io/badge/School-Milestone_one-skyblue?style=for-the-badge&&logo=42">
@@ -46,7 +92,9 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <div id="milestone_one" style="display: inline-block; vertical-align: middle;">
 
-[![Libft](42_badges/libftm.png)](https://github.com/willtrigo/42_libft)
+[![Get next line](42_badges/get_next_linem.png)](https://github.com/willtrigo/42_get_next_line)
+[![Printf](42_badges/ft_printfm.png)](https://github.com/willtrigo/42_printf)
+[![Born 2 be root](42_badges/born2berootm.png)](https://github.com/willtrigo/42_born2beroot)
 
 </div>
 <div id="title_milestone_two" style="margin: 0px 0px 3px;">
@@ -56,9 +104,9 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <div id="milestone_two" style="display: inline-block; vertical-align: middle;">
 
-[![Get next line](42_badges/get_next_linem.png)](https://github.com/willtrigo/42_get_next_line)
-[![Printf](42_badges/ft_printfm.png)](https://github.com/willtrigo/42_printf)
-[![Born 2 be root](42_badges/born2berootm.png)](https://github.com/willtrigo/42_born2beroot)
+[![Fract-ol](42_badges/fract-olm.png)](https://github.com/willtrigo/42_fract-ol)
+[![Minitalk](42_badges/minitalkm.png)](https://github.com/willtrigo/42_minitalk)
+[![Push swap](42_badges/push_swapm.png)](https://github.com/willtrigo/42_push_swap)
 
 </div>
 <div id="title_milestone_three" style="margin: 0px 0px 3px;">
@@ -68,9 +116,8 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <div id="milestone_three" style="display: inline-block; vertical-align: middle;">
 
-[![Fract-ol](42_badges/fract-olm.png)](https://github.com/willtrigo/42_fract-ol)
-[![Minitalk](42_badges/minitalkm.png)](https://github.com/willtrigo/42_minitalk)
-[![Push swap](42_badges/push_swapm.png)](https://github.com/willtrigo/42_push_swap)
+[![Minishell](42_badges/minishellm.png)](https://github.com/willtrigo/42_minishell)
+[![Philosophers](42_badges/philosophersm.png)](https://github.com/willtrigo/42_philosophers)
 
 </div>
 <div id="title_milestone_four" style="margin: 0px 0px 3px;">
@@ -80,8 +127,13 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <div id="milestone_four" style="display: inline-block; vertical-align: middle;">
 
-[![Minishell](42_badges/minishellm.png)](https://github.com/willtrigo/42_minishell)
-[![Philosophers](42_badges/philosophersm.png)](https://github.com/willtrigo/42_philosophers)
+[![Net practice](42_badges/netpracticem.png)](https://github.com/willtrigo/42_netpractice)
+[![Cub3D](42_badges/cub3dm.png)](https://github.com/willtrigo/42_cub3d)
+[![CPP 00](42_badges/cpp00m.png)](https://github.com/willtrigo/42_cpp_module_00)
+[![CPP 01](42_badges/cpp01m.png)](https://github.com/willtrigo/42_cpp_module_01)
+[![CPP 02](42_badges/cpp02m.png)](https://github.com/willtrigo/42_cpp_module_02)
+[![CPP 03](42_badges/cpp03m.png)](https://github.com/willtrigo/42_cpp_module_03)
+[![CPP 04](42_badges/cpp04m.png)](https://github.com/willtrigo/42_cpp_module_04)
 
 </div>
 
