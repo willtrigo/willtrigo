@@ -32,7 +32,7 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 ## 🧰 DevOps & Tools
 
 <picture>
-  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,heroku,linux,bash,selenium,docker,figma&perline=" height="100%">
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,heroku,linux,bash,selenium,figma&perline=" height="100%">
 </picture>
 
 ## 📝 IDEs & Editors
