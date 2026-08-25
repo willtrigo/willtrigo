@@ -143,8 +143,6 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 </div>
 <h2></h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=willtrigo&theme=darkhub&rank=-?&column=-1&no-bg=true&no-frame=true)
-
 <picture>
 	<img alt="Profile view" src="https://komarev.com/ghpvc/?username=willtrigo&color=blue">
 </picture>
