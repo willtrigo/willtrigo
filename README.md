@@ -52,11 +52,14 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 <div align=center>
 
 <picture>
-	<img alt="Status" src="https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/overview.svg" height="100%">
+	<img alt="Status" src="https://github-stats-extended.vercel.app/api?username=willtrigo&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent" height="100%">
 </picture>
 <picture>
-	<img alt="Languages" src="https://raw.githubusercontent.com/willtrigo/github-stats-transparent/output/generated/languages.svg" height="100%">
+	<img alt="Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=willtrigo&layout=compact&langs_count=6&theme=transparent" height="100%">
 </picture>
+
+
+
 
 </div>
 <div align="left"> </div>
