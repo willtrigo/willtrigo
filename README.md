@@ -6,7 +6,7 @@ I'm Daniel Trigo, but my nickname is willtrigo, because of a joke in school that
 
 <div align="left" style="display: inline-block">
 	<a href="https://www.linkedin.com/in/daniel-j-trigo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href = "mailto:wiltlrigo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href = "mailto:daniel.trigo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://instagram.com/willtrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://discordapp.com/users/willtrigo#8664" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
 </div>
